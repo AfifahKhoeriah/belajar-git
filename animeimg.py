@@ -1,3 +1,5 @@
+
+#test ini yang ditambah
 import requests,wget,bs4,os,sys
 url = "https://wallpaperaccess.com"
 cook = {"cookie":"PHPSESSID=1b1ee73ddd17e8d3db8614056e495efa"}
